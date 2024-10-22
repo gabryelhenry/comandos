@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>ALURAFLIX</title>
+<head>
+
+<body>
+    <section>
+        <div>
+            <header>ALURAFLIX</header>
+            <h1>A MISSÃO DE SANDY BOCHECHAS</h1>
+            <div>
+            <div>
+                <p>Legal o trailer</p>
+                <iframe width="500" height="315" src="https://youtu.be/DrucMgTfokY?si=NbPuR2BuawlGJUrY"
+                title="Youtube video player" frameborder="0"
+                allow="acelerometer; autoplay; clipboard-write; encrypted-media; gyrosture-in-picture"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </section>
+</body>
+
+<html>
